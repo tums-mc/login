@@ -16,7 +16,7 @@ Max meinte ich solle das mit einem Array machen ... ich weiß nur nicht genau wi
 Ich hab mir schon 2 Bücher gekauft und bin schon seit 1-2 Monaten am lernen aber dann kommt wieder so ein dummer fehler und ich weiß nicht weiter.
 Bei google findet man auch nichts vernünftiges.
 
-
+=====
 
 Das ganze soll nacher einem Aktienmarkt für den Server dienen.
 Max schreibt fleißig sein Plugin, ist jetzt auch bald fertig.
